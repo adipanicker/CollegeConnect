@@ -10,7 +10,7 @@ function App() {
       .then((res) => setMsg(res.data.message))
       .catch((err) => console.log(err));
   }, []);
-
+  //test
   return (
     <div className="flex items-center justify-center min-h-screen text-red-100 font-bold">
       {msg || "Loading.."}
