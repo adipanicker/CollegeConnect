@@ -1,1 +1,1 @@
-College Connect
+College Connect app
